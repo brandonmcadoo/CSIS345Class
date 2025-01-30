@@ -1,0 +1,7 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/brandonmcadoo/SCHOOL/CSIS345/CSIS345Class/Day 2/output/Arrays'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F4C, symSize: 0x50 }
+  - { offsetInCU: 0x4F92, offset: 0x4F92, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F4C, symSize: 0x50 }
+...
