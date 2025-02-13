@@ -1,5 +1,6 @@
 #include <iostream>
 #include "number.h"
+
 using std::cout;
 using std::endl;
 
