@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/brandonmcadoo/SCHOOL/CSIS345/CSIS345Class/Day 7",
-      "program": "/Users/brandonmcadoo/SCHOOL/CSIS345/CSIS345Class/Day 7/build/Debug/outDebug"
+      "cwd": "/Users/brandonmcadoo/SCHOOL/CSIS345/CSIS345Class/MIDTERM",
+      "program": "/Users/brandonmcadoo/SCHOOL/CSIS345/CSIS345Class/MIDTERM/build/Debug/outDebug"
     }
   ]
 }
